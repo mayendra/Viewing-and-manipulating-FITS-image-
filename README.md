@@ -1,3 +1,3 @@
 # Viewing-and-manipulating-FITS-image-
 
-(download.png)
+![Alt text for the image](download.png)
